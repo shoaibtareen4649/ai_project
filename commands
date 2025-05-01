@@ -1,0 +1,8 @@
+1 . // activate this venv 
+venv-py310\Scripts\activate
+2. / run 
+python run_project.py
+
+Option 1: 
+opt 2 
+option 3 
